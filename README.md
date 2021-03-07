@@ -18,33 +18,32 @@
 
 8.4. [Создание собственных модулей](./08-ansible-04-module/README.md)
 
+## Модуль 9. Система управления конфигурациями
 
-## Модуль 9. Непрерывная разработка и интеграция
+9.1. [Жизненный цикл ПО](./09-ci-01-intro/README.md)
 
-9.1. [Жизненный цикл разработки ПО]()
+9.2. [Процессы CI/CD](./09-ci-02-cicd/README.md)
 
-9.2. [Процессы CI/CD: автоматические и ручное тестирование, сборка и доставка в разные окружения]()
+9.3. [Jenkins](./09-ci-03-jenkins/README.md)
 
-9.3. [Инфраструктура тестирования, сборки и доставки ПО]()
+9.4. [Teamcity](./09-ci-04-teamcity/README.md)
 
-9.4. [Практическое знакомство с Teamcity и Gitlab CI]()
+9.5. [Gitlab](./09-ci-05-gitlab/README.md)
+
+## Модуль 10. Системы мониторинга
+
+10.1. [Зачем и что нужно мониторить](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-01-base)
+
+10.2. [Системы для мониторинга](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-02-systems)
+
+10.3. [Средство визуализации Grafana](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-03-grafana)
+
+10.4. [Система сбора логов ELK](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-04-elk)
+
+10.5. [Система-перехватчик ошибок Sentry](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-05-sentry)
+
+10.6. [Инцидент-менеджмент](https://github.com/netology-code/mnt-homeworks/tree/master/10-monitoring-06-incident-management)
 
 
-## Модуль 10. Мониторинг и логи
-
-10.1. [Зачем и что нужно мониторить](./10-monitoring-01-base/README.md)
-
-10.2. [Системы для мониторинга](./10-monitoring-02-systems)
-
-10.3. [Средство визуализации Grafana](./10-monitoring-03-grafana)
-
-10.4. [Система сбора логов ELK](./10-monitoring-04-elk)
-
-10.5. [Система перехватчик-ошибок Sentry](./10-monitoring-05-sentry)
-
-10.6. [Инцидент-менеджмент]()
-
-
-## Дополнительные материалы
-
-1. [Модуль 8. Система управления конфигурациями](./08-ansible-additional/README.md)
+## Дополнительные материалы к лекциям
+[Дополнительные материалы к лекциям по Ansible](https://github.com/netology-code/mnt-homeworks/tree/master/08-ansible-additional)
